@@ -1,1 +1,1 @@
-[Optional] Vagrant
+Vagrant
